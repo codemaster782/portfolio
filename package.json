@@ -1,0 +1,20 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'No test configured'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codemaster782/My-Portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codemaster782/My-Portfolio/issues"
+  },
+  "homepage": "https://github.com/codemaster782/My-Portfolio#readme",
+  "description": ""
+}
